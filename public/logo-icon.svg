@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="24" fill="#080808"/>
+  <rect x="1" y="1" width="98" height="98" rx="23" stroke="#C5A44D" stroke-width="2" stroke-opacity="0.3"/>
+  <!-- Gold Geometric 'B' with Ascending Arrow / Beyond motif -->
+  <path d="M28 24H54C63.9411 24 72 32.0589 72 42C72 48.0645 68.9959 53.4262 64.3905 56.6853C70.218 59.9579 74 66.2731 74 73C74 83.4934 65.4934 92 55 92H28V24Z" fill="url(#goldGradient)" fill-opacity="0.1" stroke="url(#goldGradient)" stroke-width="3"/>
+  <path d="M38 34H52C57.5228 34 62 38.4772 62 44C62 49.5228 57.5228 54 52 54H38V34Z" fill="#080808" stroke="url(#goldGradient)" stroke-width="2.5"/>
+  <path d="M38 62H54C59.5228 62 64 66.4772 64 72C64 77.5228 59.5228 82 54 82H38V62Z" fill="#080808" stroke="url(#goldGradient)" stroke-width="2.5"/>
+  <!-- Bold Red Energy Accent symbolizing 'Go Beyond' -->
+  <path d="M68 22L84 8M84 8H72M84 8V20" stroke="#E50920" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="84" cy="8" r="3" fill="#E50920"/>
+  <defs>
+    <linearGradient id="goldGradient" x1="28" y1="24" x2="74" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DFC16C"/>
+      <stop offset="0.5" stop-color="#C5A44D"/>
+      <stop offset="1" stop-color="#8A7030"/>
+    </linearGradient>
+  </defs>
+</svg>
